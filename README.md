@@ -4,7 +4,6 @@ This repository hosts the source code for a comprehensive portfolio exemplifying
 
 From conceptualization to execution, each project narrates a unique story, reflecting the seamless amalgamation of aesthetics, functionality, and innovation.
 
-![Project Preview](src/assets/img/screen-1.png)
 
 ## Features
 
@@ -13,9 +12,6 @@ From conceptualization to execution, each project narrates a unique story, refle
 -   Contact details,
 -   Previous works.
 
-![Project Preview](src/assets/img/screen-2.png)
-
-![Project Preview](src/assets/img/screen-3.png)
 
 ## Installation and Local Setup
 
